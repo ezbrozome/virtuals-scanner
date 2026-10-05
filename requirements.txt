@@ -1,4 +1,0 @@
-streamlit
-easyocr
-pillow
-numpy
